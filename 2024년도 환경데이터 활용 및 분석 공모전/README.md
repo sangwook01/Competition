@@ -13,4 +13,5 @@
 3. 예측하는 모델을 구상했지만, 다양한 데이터 셋을 많이 모았음에도 불구하고 데이터의 불균형이 심해 원하는 결과를 얻지 못하였다. (이럴 때 각 데이터에 대해 어떻게 가중치를 주어야되는지 고민해보아야 됨)
    
 <br/>
-![image](https://github.com/sangwook01/Competition/assets/133327420/f7eef678-72c4-437e-9692-e8a6a13ef247)
+
+![image](https://github.com/sangwook01/Competition/assets/133327420/553ab4cb-2914-44b7-b73f-20a7bda99538)
