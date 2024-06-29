@@ -2,7 +2,7 @@
 <br/>
 
 [배운 점] 
-1. 기존의 python의 matplotlib, seaborn library가 아닌 새로운 tool인 Qqigs를 이용하여 시각화를 진행하고 나타내 볼 수 있는 경험을 하였다.
+1. 기존의 python의 matplotlib, seaborn library가 아닌 새로운 tool인 Qgis를 이용하여 시각화를 진행하고 나타내 볼 수 있는 경험을 하였다.
 2. 위,경도와 같이 작은 오차에도 민감하게 반응하는 데이터들이 많을텐데 이에 대해 다시 생각해보는 시간이 되었다. 
 
 <br/>
